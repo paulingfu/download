@@ -11,6 +11,7 @@ public class DownloadApplicationTests {
 
     @Test
     public void contextLoads() {
+        System.out.println("123");
     }
 
 }
